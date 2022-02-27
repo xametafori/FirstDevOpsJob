@@ -56,7 +56,7 @@
        </properties>
    </profile>
    <profile>
-       <id>war</id>
+       <id>jar</id>
        <properties>
             <packaging.type>war</packaging.type>
             <spring.profiles.active>ds</spring.profiles.active>
